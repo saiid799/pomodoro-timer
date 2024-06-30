@@ -1,7 +1,5 @@
 "use client";
 
-// app/components/Settings.tsx
-
 import React, { useState, useEffect } from "react";
 import { Button } from "./ui/Button";
 
