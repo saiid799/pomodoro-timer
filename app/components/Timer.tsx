@@ -1,7 +1,5 @@
 "use client";
 
-// app/components/Timer.tsx
-
 import React, { useState, useEffect, useCallback } from "react";
 import { Button } from "./ui/Button";
 import { Progress } from "./ui/Progress";
