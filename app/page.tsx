@@ -1,9 +1,5 @@
 "use client";
 
-// app/page.tsx
-
-"use client";
-
 import { useState, useEffect } from "react";
 import { Navbar } from "./components/Navbar";
 import { Timer } from "./components/Timer";
